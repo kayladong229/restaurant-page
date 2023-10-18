@@ -1,1 +1,3 @@
-console.log('goodbye cruel world');
+import { homepageLoad } from './homepageLoad.js';
+
+homepageLoad();
